@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 0c23e0708d6a30685521fee3b9298e60edbdb56e 유갱 <yugang@yugaeng-ui-MacBookPro.local> 1773929743 +0900	commit (initial): Initial commit: XENONIX company website
+0c23e0708d6a30685521fee3b9298e60edbdb56e 57ffa12f2fb91617dba766e2b8bd8d15af6c2a75 유갱 <yugang@yugaeng-ui-MacBookPro.local> 1773929792 +0900	commit: Add GitHub Actions deploy workflow for Pages
+57ffa12f2fb91617dba766e2b8bd8d15af6c2a75 7e119e49278bfda66e0852ac789584dd2bfbdcec 유갱 <yugang@yugaeng-ui-MacBookPro.local> 1773929904 +0900	commit: Fix basePath for GitHub Pages deployment
+7e119e49278bfda66e0852ac789584dd2bfbdcec 96fa6c7445489a34e409ccdfa2c3bfc3114e2711 유갱 <yugang@yugaeng-ui-MacBookPro.local> 1773930043 +0900	commit: Fix team photo path for GitHub Pages basePath
+96fa6c7445489a34e409ccdfa2c3bfc3114e2711 901f42a2a857bdefb48aa142b12ad5e7475f17e2 유갱 <yugang@yugaeng-ui-MacBookPro.local> 1773930265 +0900	commit: Fix team photo path with basePath for GitHub Pages
+901f42a2a857bdefb48aa142b12ad5e7475f17e2 acd7a0d87ce9730b5a08846639124f9be8408b34 유갱 <yugang@yugaeng-ui-MacBookPro.local> 1773979064 +0900	commit: feat: 팀원 정보 업데이트 및 모바일 최적화
