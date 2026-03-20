@@ -8,7 +8,7 @@ const BASE_PATH = "/XENONIX_page";
 const members = [
   {
     name: "Jimin Shin",
-    role: "Co-Founder & CEO",
+    role: "Co-Founder & COO",
     company: "Deloitte RA Intern · Cheil Worldwide Data Global Marketing · HP AI Research",
     education: "B.S. Information Science, University of Michigan - Ann Arbor",
     initials: "JS",
