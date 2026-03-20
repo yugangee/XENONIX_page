@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: "XENONIX",
     images: [
       {
-        url: "/XENONIX_page/image.png",
+        url: "https://yugangee.github.io/XENONIX_page/image.png",
         width: 1200,
         height: 630,
         alt: "XENONIX - Empowering Your Financial Identity",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "XENONIX — Empowering Your Financial Identity",
     description: "AI 기반 대안 신용평가 인프라로 새로운 금융 정체성을 제공합니다.",
-    images: ["/XENONIX_page/image.png"],
+    images: ["https://yugangee.github.io/XENONIX_page/image.png"],
   },
 };
 
